@@ -3,36 +3,42 @@
         "id": 1,
         "review": "Very thin and good performance. So reasonable. Strongly recommended. This device is able to provide more values with both myself and my kids. We can install LINE, games and access various google platform.",
         "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-        "name": "Leanne Graham"
+        "name": "Leanne Graham",
+        "rating": 3.5
     },
     {
         "id": 2,
         "review": "Just received my laptop, the design is great and I like the keyboard. For some reason the tracking pad feel sticky and is way too sensitive if you leave your finger on, without pressure, it would click and open pages, maybe Its because im not fully used to it yet. The touch screen is great, I find its a bit empty and complicated to find normal computer, no side bar like im used too and stuff but i guess you just have to get around to it. I never had a chromebook before. For light, everyday used its a good laptop for quality-price.Its very light! To me its perfect ofr my little browsing!",
         "picture": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-        "name": "Ervin Howell"
+        "name": "Ervin Howell",
+        "rating": 4.5
     },
     {
         "id": 3,
         "review": "We bought this laptop to rent out to students at a university computer lab. It happens to have better specs than our regular lab desktops, which is saying a lot. According to our testing, this laptop handles the GPU and CPU bound tasks very well, handling CAD programs like SolidWorks without issue. There are a couple of drawbacks though. The track pad was noted as being too sensitive, often being activated by the users palm while typing, and the unit has no webcam. Ultimately, we decided to return this laptop in favor of a different model, (mostly because of the webcam) but that's mostly our fault for not checking before purchase. Otherwise, I would be happy to own this machine personally.",
         "picture": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
-        "name": "Clementine Bauch"
+        "name": "Clementine Bauch",
+        "rating": 4.5
     },
     {
         "id": 4,
         "review": "I originally bought this to do software development and some casual gaming. 6 cores and 32 GB of RAM is great for Docker / Virtual Machines . . . The RTX 2060 is also great for gaming; could play most games I threw at it at 4k resolution which looks amazing on the 4k display. This laptop falls short of 2 things . . . . touch pad and cooling. The touch pad is simply not good compared to other laptops I've used. I had to resort to using a mouse. The killer of this though; is that in order to do any casual gaming (even at 1080p and low graphics) the fans run at full blast and the CPU still sits at above 80-degrees. When it comes to gaming I think I'll be better off streaming games from my Desktop or XBox/Playstation. I will probably end up returning this laptop.",
         "picture": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=798&q=80",
-        "name": "Robel-Corkery"
+        "name": "Robel-Corkery",
+        "rating": 5
     },
     {
         "id": 5,
         "review": "The laptop is light but powerful. It looks good too compare with other 17 inch laptop in this range of price.",
         "picture": "https://images.unsplash.com/photo-1491349174775-aaafddd81942?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-        "name": "Mrs. Dennis Schulist"
+        "name": "Mrs. Dennis Schulist",
+        "rating": 5
     },
     {
         "id": 6,
         "review": "Overall the computer is great it does have some glitches every now and then which shouldn't be happening for a brand new computer since I bought it this year, it can run ai and ps at the same time without problem but you can not run AE and export a composition easily. The screen colors are wonderful it really does a great job of showing the true colors in a work and graphics are great so overall 9/10. Asus is a pretty sturdy brand and I would recommend them as an affordable Apple alternative.",
         "picture": "https://images.unsplash.com/photo-1500048993953-d23a436266cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1738&q=80",
-        "name": "Kurtis Weissnat"
+        "name": "Kurtis Weissnat",
+        "rating": 4
     }
 ]
