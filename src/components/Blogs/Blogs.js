@@ -2,7 +2,7 @@ import React from 'react';
 
 const Blogs = () => {
     return (
-        <div className='w-1/2 mx-auto'>
+        <div className='w-3/4 md:w-1/2 mx-auto'>
             <h1 className='text-2xl text-teal-800'>What are semantic tags?</h1>
             <p className='text-lg text-indigo-700'>Semantic tags mean logical or meaningful tags or elements. It keeps hundreds of lines of codes organized and readable for the developers. Using div all the time can make it very confusing. Therefore semantic elements can define their contents. A webpage can be split into different sections and can be labelled with a meaningful tags. Good example of  semantic tags can be article, header, footer, section, nav, summary and so on. The navigation bar (nav) can be inside header for example. And the end notes along with the copyright logos can be in footer tag.  </p>
             <br />

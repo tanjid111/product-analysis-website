@@ -13,8 +13,8 @@ const Home = () => {
 
     return (
         <div>
-            <div className='py-20 grid grid-cols-3 gap-6'>
-                < div className='px-40 col-span-2 flex flex-col justify-center items-center' >
+            <div className='py-20 grid grid-cols-1 sm:grid-cols-3 gap-6'>
+                < div className=' px-12 sm:col-span-2 flex flex-col justify-center items-center' >
                     <h1 className='font-extrabold text-5xl'>The Flagship Killer</h1>
                     <h1 className='font-extrabold text-5xl py-2 text-cyan-700'>ProArt Studiobook</h1>
                     <p className='text-slate-500'>Studiobook series is a mighty powerhouse that brings ideas to life. It features the NVIDIA® Quadro GPU, and boasts a slim-bezel NanoEdge display for immersive visuals. Its combination of cutting-edge graphics and portability makes it perfect for creative professionals.</p>

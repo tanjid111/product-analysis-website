@@ -5,7 +5,7 @@ const Dashboard = () => {
     const [data, setData] = useData()
 
     return (
-        <div className='grid grid-cols-2 py-5 gap-y-10'>
+        <div className='grid grid-cols-1 md:grid-cols-2 py-5 gap-y-10'>
             <div className='mx-auto'>
                 <LineChart
                     width={500}
@@ -49,7 +49,7 @@ const Dashboard = () => {
                 </BarChart>
             </div>
 
-            <div className='mx-auto col-span-2'>
+            <div className='mx-auto md:col-span-2'>
                 <AreaChart
                     width={500}
                     height={400}

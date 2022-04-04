@@ -7,7 +7,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const ReviewCard = (props) => {
     const { review, picture, name, rating } = props.review;
     return (
-        <div className='border-solid border-2 my-3 py-5 rounded-2xl w-3/5 mx-auto shadow-lg'>
+        <div className='border-solid border-2 my-3 py-5 rounded-2xl w-11/12 md:w-3/5 mx-auto shadow-lg'>
             <div className='review flex justify-center items-center pt-5'>
                 <img src={picture} alt="" />
                 <p className='px-5 text-3xl'>{name}</p>
@@ -22,7 +22,7 @@ const ReviewCard = (props) => {
             </div>
 
 
-            <p className='text-center px-12 text-xl'>{review}</p>
+            <p className='text-center px-6 md:px-12 text-xl'>{review}</p>
 
         </div>
     );
