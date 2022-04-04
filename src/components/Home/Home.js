@@ -1,10 +1,16 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import laptop from '../../Assets/Images/laptop.PNG'
 import useReviews from '../../hooks/useReviews';
 import ReviewCard from '../ReviewCard/ReviewCard';
 
 const Home = () => {
     const [reviews, setReviews] = useReviews()
+    const navigate = useNavigate();
+    const goToReviews = () => {
+        navigate('/reviews')
+    }
+
     return (
         <div>
             <div className='py-20 grid grid-cols-3 gap-6'>
@@ -29,9 +35,12 @@ const Home = () => {
                     ></ReviewCard>)
                 }
             </div>
+            <div className='text-center my-5'>
+                <button onClick={goToReviews} className='w-32 py-3 rounded-lg mt-4 text-white font-semibold bg-red-600'>See all Reviews</button>
+            </div>
 
 
-        </div>
+        </div >
     );
 };
 

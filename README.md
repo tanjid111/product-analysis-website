@@ -1,3 +1,15 @@
+#Laptop Review Website!
+
+Livesite Link:
+
+* This website has multiple customer reviews of the website.
+* It also has dashboard with 3 different charts, linechart, areachart and barchart.
+* Custom hooks have been used as well. 
+* useNavigate hook has also been used.
+* Notfound 404 page has been added as well to to handle any wrong path.
+* The website has its own title and logo
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

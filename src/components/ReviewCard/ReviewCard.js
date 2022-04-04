@@ -2,7 +2,6 @@ import React from 'react';
 import './ReviewCard.css'
 
 const ReviewCard = (props) => {
-    console.log(props);
     const { review, picture, name } = props.review;
     return (
         <div className='border-solid border-2 my-3 py-5 rounded-2xl w-3/5 mx-auto shadow-lg'>
