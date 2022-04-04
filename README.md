@@ -1,4 +1,4 @@
-#Laptop Review Website!
+# Laptop Review Website!
 
 Livesite Link:
 
@@ -7,7 +7,7 @@ Livesite Link:
 * Custom hooks have been used as well. 
 * useNavigate hook has also been used.
 * Notfound 404 page has been added as well to to handle any wrong path.
-* The website has its own title and logo
+* The website has its own title and logo.
 
 
 # Getting Started with Create React App
