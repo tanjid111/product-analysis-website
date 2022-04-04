@@ -1,6 +1,6 @@
 # Laptop Review Website!
 
-Livesite Link:
+Livesite Link: https://laptop-review-tanjid.netlify.app/
 
 * This website has multiple customer reviews of the website.
 * It also has dashboard with 3 different charts, linechart, areachart and barchart.
