@@ -3,7 +3,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Header = () => {
     return (
-        <nav className='py-6 flex gap-6 font-bold text-xl justify-center'>
+        <nav className='py-6 flex gap-6 font-bold sm:text-xl justify-center'>
             <CustomLink className='border-b-4' to='/'>Home</CustomLink>
             <CustomLink className='border-b-4' to='/reviews'>Reviews</CustomLink>
             <CustomLink className='border-b-4' to='/dashboard'>Dashboard</CustomLink>
